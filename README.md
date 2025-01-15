@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF7200&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FE8330&height=120&section=header"/>
 
 <h1 align="center"> Yuri Moreira Alves </h1>
 
