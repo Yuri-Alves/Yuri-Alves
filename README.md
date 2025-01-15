@@ -3,7 +3,7 @@
 <h1 align="center"> Yuri Moreira Alves </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&color=FE8330&center=true&vCenter=true&lines=;Greetings+Traveller!;Computer+Engineering;Data+Scientist:%29" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&color=FE8330&center=true&vCenter=true&lines=;Greetings+Traveller!;Computer+Engineering;Data+Scientist" alt="Typing SVG" />
 </p>
 
 <div>
